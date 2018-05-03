@@ -1,0 +1,16 @@
+# .gitignore for Matlab project
+
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+# figs
+*.fig
+
+# data files
+*.mat
+
+# img directory
+img/*
